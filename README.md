@@ -1,3 +1,3 @@
-# Hello-World
-Hi humans!
-Mabvuto here,I like spending most of my time working and developing software and hardware
+
+Hello World!
+Mabvuto here,I like spending most of my time working and developing Software and Hardware
